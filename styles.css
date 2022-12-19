@@ -1,0 +1,31 @@
+img {
+  height: 200px;
+  max-width: 100%;
+}
+
+.card-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+ul {
+  gap: 24px;
+  list-style: none;
+}
+
+ul li {
+  width: 30%;
+}
+
+ul img {
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+.admin-scenesList {
+  width: 100%;
+}
